@@ -23,3 +23,4 @@ def generate_string_CalculateRequest(number1: any, number2: any):
         </soapenv:Body>
     </soapenv:Envelope>
     """
+    
