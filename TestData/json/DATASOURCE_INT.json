@@ -1,5 +1,8 @@
-{
-    "number1": "1",
-    "number2": "4",
-    "fah": "123"
-}
+[
+    {},
+    {
+        "fahrenheit": 120,
+        "number1": 2,
+        "number2": 13
+    }
+]
